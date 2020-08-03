@@ -14,6 +14,4 @@ After scrolling the page at the bottom, the buttons in the footer located remain
 <b>Devices</b><br>
 Apple iPhone 7 iOS 13.4.1 Safari<br>
 <b>Attachments</b><br>
-<video width="400" height="300" controls="controls">
- <source src=484ec316-dd13-48a9-bb0f-3c03f8e092dc.mp4>
-</video>
+
