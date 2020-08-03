@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 
 [About me!](about.md)<br>
-[Bug report](bug.md)<br>
-[Checklist](checklist.md)<br>
-[Test case](test_case.md)<br>
+[Example of Bug Report](bug.md)<br>
+[Example of Checklist](checklist.md)<br>
+[Example of Test case](test_case.md)<br>
