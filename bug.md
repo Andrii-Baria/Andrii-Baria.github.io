@@ -25,5 +25,6 @@
 <b>Devices</b>
 <p>Apple iPhone 7 iOS 13.4.1 Safari</p>
 <b>Attachments</b><br>
-  <video src="484ec316-dd13-48a9-bb0f-3c03f8e092dc.mp4" controls></video>
+  <video width="400" height="300" controls="controls">
+  <source src="484ec316-dd13-48a9-bb0f-3c03f8e092dc.mp4"></video>
 </body>
