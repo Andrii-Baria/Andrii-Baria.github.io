@@ -6,7 +6,8 @@
   </style>
 </head>
 <body>
-<h1>Example of Bug Report|№1 [1](bug.md) [2](bug2.md)</h1>
+<h1>Example of Bug Report|№1</h1>
+   [1](bug.md) [2](bug2.md)
 <b>Summary</b>
 <p>Buttons are highlighted in the footer of the main page after scrolling the page</p>
 <b>Bug Type</b>
