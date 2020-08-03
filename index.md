@@ -4,3 +4,4 @@
 [Example of Bug Report](bug.md)<br>
 [Example of Checklist](checklist.md)<br>
 [Example of Test case](test_case.md)<br>
+[Test](bug.html)<br>
