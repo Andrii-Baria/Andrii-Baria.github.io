@@ -6,7 +6,7 @@
   </style>
 </head>
 <body>
-<h1>Example of Bug Report|№1 <a href="bug.md">1 </a><a href="bug2.html">2</a></h1>
+<h1>Example of Bug Report|№1 <a href="bug.md">1 </a><a href="bug2.md">2</a></h1>
 <b>Summary</b>
 <p>Buttons are highlighted in the footer of the main page after scrolling the page</p>
 <b>Bug Type</b>
