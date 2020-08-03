@@ -3,10 +3,10 @@
 Buttons are highlighted in the footer of the main page after scrolling the page<br>
 <b>Bug Type</b><br>
 Visual<br>
-<b>Steps</b><br>
-1. Open the https://www.etsy.com/<br>
-2. Scroll down to bottom<br>
-3. Scroll up and down by holding buttons in the bottom<br>
+<ol><b>Steps</b><br>
+<li>Open the https://www.etsy.com/<br></li>
+<li>Scroll down to bottom<br></li>
+<li>Scroll up and down by holding buttons in the bottom<br></li></ol>
 <b>Expected result</b><br>
 The button in the footer does not light after releasing a finger from the screen<br>
 <b>Actual result</b><br>
