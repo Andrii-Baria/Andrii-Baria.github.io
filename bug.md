@@ -5,9 +5,8 @@
    }
   </style>
 </head>
-<body>
+
 <h1>Example of Bug Report|№1</h1>
-   [About me!](about.md)<br>
    [1](bug.md) [2](bug2.md)<br>
 <b>Summary</b>
 <p>Buttons are highlighted in the footer of the main page after scrolling the page</p>
@@ -28,4 +27,4 @@
 <b>Attachments</b><br>
   <video width="300" height="300" controls="controls">
   <source src="484ec316-dd13-48a9-bb0f-3c03f8e092dc.mp4"></video>
-</body>
+
