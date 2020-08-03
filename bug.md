@@ -23,6 +23,6 @@
 <p>After scrolling the page at the bottom, the buttons in the footer located remain highlighted after releasing a finger from the device screen</p>
 <b>Devices</b>
 <p>Apple iPhone 7 iOS 13.4.1 Safari</p>
-<b>Attachments</b>
+<b>Attachments</b><br>
   <video src="484ec316-dd13-48a9-bb0f-3c03f8e092dc.mp4" controls></video>
 </body>
