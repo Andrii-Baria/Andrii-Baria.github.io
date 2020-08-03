@@ -1,4 +1,5 @@
 <head>
+   <title>Example of Bug Report | Andrii Baria</title>
 <style>
    p {
     text-indent: 20px; /* Отступ первой строки в пикселах */
