@@ -1,5 +1,5 @@
 <table border="1">
-   <caption><b>Checklist</b></caption>
+   <caption><b>Example of Checklist</b></caption>
    <tr>
     <th>Site test.com</th>
     <th>Google Chrome 80.0.3987.87</th>
