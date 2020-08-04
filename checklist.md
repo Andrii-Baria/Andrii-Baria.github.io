@@ -17,7 +17,7 @@
      <td>Check the footer presence</td><td bgcolor="#00ff00">Passed</td><td bgcolor="#00ff00">Passed</td><td bgcolor="#00ff00">Passed</td><td></td>
   </tr>
    <tr>
-     <td>Check the display of the buttons, menus, blocks, etc., their location relative to each other</td><td bgcolor="#ff0000">Failed</td><td bgcolor="#ff0000">Failed</td><td bgcolor="#ff0000">Failed</td><td></td>
+     <td>Check the display of the buttons, menus, blocks, etc., their location relative to each other</td><td bgcolor="#ff0000">Failed</td><td bgcolor="#ff0000">Failed</td><td bgcolor="#ff0000">Failed</td><td>Bug id</td>
   </tr>
    <tr>
      <td>Check the cursor changing after hovering the mouse over the active elements</td><td></td><td></td><td></td><td></td>
